@@ -1,0 +1,33 @@
+.NavBar{
+    text-align: center;
+}
+.banner1{
+    max-height: -50%;
+    max-width: -50%;
+}
+.Header{
+    text-align: center;
+}
+
+.HomePageImage{
+    text-align: center;
+}
+.BlueTextBox{
+    height: 60px;
+    width: 110px;
+    background-color: #3333ff;
+    text-align: center;
+}
+
+.BlueTextBox1{
+    height: 60px;
+    width: 110px;
+    background-color: #3333ff;
+    text-align: center;
+}
+
+.bluebutton{
+    height: 50px;
+    width: 110px;
+    background-color: #3333ff;
+}
