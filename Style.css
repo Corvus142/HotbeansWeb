@@ -1,33 +1,44 @@
 .NavBar{
     text-align: center;
 }
+footer{
+    margin-top: 25px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+.NavBarButton{
+    border-radius: 6px;
+    height: 30px;
+    width: 110px;
+    background-color: #3333ff;
+}
 .banner1{
     max-height: -50%;
     max-width: -50%;
 }
+.line{
+    height: 2px;
+    width: 450px;
+    background-color: #3333ff;
+}
 .Header{
     text-align: center;
+    color: blue;
 }
 
 .HomePageImage{
     text-align: center;
 }
 .BlueTextBox{
-    height: 60px;
-    width: 110px;
-    background-color: #3333ff;
+    height: 70px;
+    width: 190px;
+    background-color: cornflowerblue;
     text-align: center;
 }
-
-.BlueTextBox1{
-    height: 60px;
-    width: 110px;
-    background-color: #3333ff;
+.BlackTextBox{
+    height: 70px;
+    width: 190px;
+    background-color: black;
     text-align: center;
-}
-
-.bluebutton{
-    height: 50px;
-    width: 110px;
-    background-color: #3333ff;
 }
