@@ -25,6 +25,8 @@ footer{
 .Header{
     text-align: center;
     color: blue;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .HomePageImage{
@@ -37,8 +39,23 @@ footer{
     text-align: center;
 }
 .BlackTextBox{
-    height: 70px;
+    height: 35px;
     width: 190px;
     background-color: black;
     text-align: center;
+}
+.GreenTextBox{
+    height: 35px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+}
+.CareersTextBox{
+    height: 50px;
+    width: 450px;
+    background-color: cornflowerblue;
+    text-align: center;
+    border: black;
+    border-width: 2px;
+    border-style: solid;
 }
